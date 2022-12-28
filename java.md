@@ -1,5 +1,5 @@
 # **JavaScript**
-- [ ] Para facilitar seu aprendizado, tente fazer os exercícios mentalmente e somente em caso de dúvidas utilize alguma ferramenta, como o terminal de comando com o Node.js rodando, Console do navegador ou sites como JS Fiddle:
+- Para facilitar seu aprendizado, tente fazer os exercícios mentalmente e somente em caso de dúvidas utilize alguma ferramenta, como o terminal de comando com o Node.js rodando, Console do navegador ou sites como JS Fiddle:
 # **Operadores**
 # Operador	Função
 **Aritméticos:** retornam o resultado de uma operação
@@ -12,12 +12,12 @@
 - subtrair multiplicar
 - dividir
 - resto de divisão incremento decremento
-**Comparadores matemáticos:** teste lógico, retorno booleano (true / false)
+# **Comparadores matemáticos:** teste lógico, retorno booleano (true / false)
 - <
 - >
 - <=
 - >=	menor que maior que menor ou igual maior ou igual
-**Comparadores Lógicos:** teste lógico, retorno booleano (true / false)
+# **Comparadores Lógicos:** teste lógico, retorno booleano (true / false)
 - ==
 - !=
 - ===
@@ -58,35 +58,35 @@ Exemplos**
 - 8 > 4 = true (boolean)
 # **Exercícios:**
 1.	Resolva as operações:
-- ●	10 15 =35 (number)
-- ●	“10” 2 = 102 (string)
-- ●	“10” 2 =20 (number)
-- ●	“10” / 3 = 3.3333333 (float)
-- ●	“10” % 3 = 1 (number)
-- ●	10 true = 11 (number)
-- ●	10 == ”10” = true (boolean)
-- ●	10 === “10” = false (boolean)
-- ●	10 < 11 = 10 > 12 =  false (boolean)
-- ●	10 <= 10.1 = true (boolean)
-- ●	10 > 9.99 = true (boolean)
-- ●	10 != “dez” = true (boolean)
-- ●	10 true = (boolean)
-- ●	“dez” true = “dez1” (string)
-- ●	10 false = 10 (number)
-- ●	10 false = 0 (number)
-- ●	true true = true (boolean)
-- ●	10+= 11 (number)
-- ●	10-= 8 (number)
-- ●	1 & 1 = 1 (boolean)
-- ●	1 & 0 = 0 (boolean)
-- ●	0 & 0 = 0 (boolean)
-- ●	1 & 0 = 0 (boolean)
-- ●	0 / 1 = 0 (number)
-- ●	5 5 == 10 = true (boolean)
-- ●	“5” ”5” == 10 = false (boolean)
-- ●	“5” 2 > 9 = true (boolean)
-- ●	(10 10) 2 = 40 (number)
-- ●	10 10 2 = 30 (number)
+- 	10 15 =35 (number)
+- 	“10” 2 = 102 (string)
+- 	“10” 2 =20 (number)
+- 	“10” / 3 = 3.3333333 (float)
+- 	“10” % 3 = 1 (number)
+- 	10 true = 11 (number)
+- 	10 == ”10” = true (boolean)
+- 	10 === “10” = false (boolean)
+- 	10 < 11 = 10 > 12 =  false (boolean)
+- 	10 <= 10.1 = true (boolean)
+- 	10 > 9.99 = true (boolean)
+- 	10 != “dez” = true (boolean)
+- 	10 true = (boolean)
+- 	“dez” true = “dez1” (string)
+- 	10 false = 10 (number)
+- 	10 false = 0 (number)
+- 	true true = true (boolean)
+- 	10+= 11 (number)
+- 	10-= 8 (number)
+- 	1 & 1 = 1 (boolean)
+- 	1 & 0 = 0 (boolean)
+- 	0 & 0 = 0 (boolean)
+- 	1 & 0 = 0 (boolean)
+- 	0 / 1 = 0 (number)
+- 	5 5 == 10 = true (boolean)
+- 	“5” ”5” == 10 = false (boolean)
+- 	“5” 2 > 9 = true (boolean)
+- 	(10 10) 2 = 40 (number)
+- 	10 10 2 = 30 (number)
 2.	Responda as perguntas de acordo com as variáveis.
 var branco = “preto”; var preto = “cinza”; var cinza = “branco”; var carro = “preto”; var valor = 30000; var prestacao = 750;
 a)	branco == “branco”  true
